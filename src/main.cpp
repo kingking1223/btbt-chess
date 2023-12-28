@@ -45,7 +45,7 @@ int main () {
         {"h8", 7}
     };
 
-    std::cout << "BTBT Chess Bot 1.0.0-dev-20231104 by King" << std::endl;
+    std::cout << "BTBT Chess Bot 1.0.0-dev-20231228 by King" << std::endl;
 
     std::thread loopThread(inputLoop);
 
